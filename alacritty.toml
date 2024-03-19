@@ -1,0 +1,14 @@
+import = ["~/.config/dracula.toml"]
+
+[window]
+padding = {x= 10, y=10}
+decorations = "None"
+opacity = 0.75
+title = "Terminal"
+dynamic_title = false
+
+[font]
+normal = { family= "Cascadia Mono", style= "Regualar" }
+bold = { family= "Cascadia Mono", style= "Bold" }
+italic = { family= "Cascadia Mono", style= "Italic" }
+ 
